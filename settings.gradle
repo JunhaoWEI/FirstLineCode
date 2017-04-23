@@ -1,1 +1,1 @@
-include ':app', ':fragmentdemo', ':broadcast'
+include ':app', ':fragmentdemo', ':broadcast', ':filestorage', ':sharedpreferences'
