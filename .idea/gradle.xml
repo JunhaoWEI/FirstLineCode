@@ -10,9 +10,11 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcast" />
+            <option value="$PROJECT_DIR$/cameraandaudio" />
             <option value="$PROJECT_DIR$/contentprovider" />
             <option value="$PROJECT_DIR$/filestorage" />
             <option value="$PROJECT_DIR$/fragmentdemo" />
+            <option value="$PROJECT_DIR$/notification" />
             <option value="$PROJECT_DIR$/sharedpreferences" />
           </set>
         </option>
