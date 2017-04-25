@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="update_text">you changed the text</string>
+</resources>
